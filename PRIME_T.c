@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-//https://pl.spoj.com/problems/PRIME_T/
+// Problem link: https://pl.spoj.com/problems/PRIME_T/
 
 void checkPrimeT(int x)
 {
@@ -19,6 +19,7 @@ void checkPrimeT(int x)
     
     
 }
+//---------------------------------------------------------------------------------------------
 int main()
 {
     int t;

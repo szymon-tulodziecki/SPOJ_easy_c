@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//https://pl.spoj.com/problems/FCTRL3/
+// Problem link: https://pl.spoj.com/problems/FCTRL3/
 
 int main()
 {

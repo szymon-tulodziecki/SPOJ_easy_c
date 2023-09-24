@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//https://pl.spoj.com/problems/PA05_POT/
+// Problem link: https://pl.spoj.com/problems/PA05_POT/
 
 void  CheckLastNumberPowerOF(int x, int y)
 {
