@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//https://pl.spoj.com/problems/PP0501A/
+// Problem link: https://pl.spoj.com/problems/PP0501A/
 
 void NWD(int x, int y)  // Eucalidean algorithm: https://en.wikipedia.org/wiki/Euclidean_algorithm
 {
