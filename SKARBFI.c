@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 
 // Problem link: https://pl.spoj.com/problems/SKARBFI
 
