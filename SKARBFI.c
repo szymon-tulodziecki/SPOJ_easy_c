@@ -1,4 +1,4 @@
-#include <stdio.h>
+1#include <stdio.h>
 #include <stdlib.h>
 
 // Problem link: https://pl.spoj.com/problems/SKARBFI
@@ -7,8 +7,7 @@
     0 - North
     1 - South
     2 - West
-    3 - East    
-      
+    3 - East      
 */
 
 int main() {
