@@ -1,4 +1,4 @@
-1#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 // Problem link: https://pl.spoj.com/problems/SKARBFI
